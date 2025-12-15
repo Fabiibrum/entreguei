@@ -1,0 +1,7 @@
+{
+  "name": "EntregaFast ",
+  "description": "Aplicativo de entregas inteligente conectando clientes e entregadores, com geração de imagens de itens e suporte via chatbot IA.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
